@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(https://github.blog/wp-content/uploads/2020/12/wallpaper_footer_4KUHD_16_9.png);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.user-form {
+  width: 100%;
+  max-width: 800px;
+}
+
+.user-form input {
+  width: 100%;
+  display: block;
+  background: linear-gradient(90deg, rgba(13, 9, 92, 0.65) 0%, rgba(31, 53, 93, 0.4) 48%, rgba(40, 20, 82, 0.65) 100%);
+  background-color: rgba(38, 53, 98, 0.3);
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  font-family: inherit;
+  font-size: 1rem;
+  box-shadow: 5px 5px 15px rgba(38, 53, 98, 0.6);
+}
+
+.user-form input::placeholder {
+  color: #bbb;
+}
+
+.user-form input:focus {
+  outline: none;
+}
+
+.card {
+  max-width: 800px;
+  background: linear-gradient(90deg, rgba(13, 9, 92, 0.65) 0%, rgba(31, 53, 93, 0.4) 48%, rgba(40, 20, 82, 0.65) 100%);
+  background-color: rgba(38, 53, 98, 0.3);
+  border-radius: 8px;
+  box-shadow: 5px 5px 15px rgba(38, 53, 98, 0.6);
+  display: flex;
+  padding: 1rem;
+  margin: 0 1.5rem;
+}
+
+.avatar {
+  border-radius: 50%;
+  border: 5px solid rgba(22, 8, 63, 0.65);
+  height: 150px;
+  width: 150px;
+}
+
+.user-info {
+  color: #eeee;
+  margin-left: 2rem;
+}
+
+.user-info h2 {
+  margin-top: 0;
+}
+
+.user-info ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  max-width: 500px;
+}
+
+.user-info ul li {
+  display: flex;
+  align-items: center;
+}
+
+.user-info ul li strong {
+  font-size: 0.9rem;
+  margin-left: 0.5rem;
+}
+
+.repo {
+  text-decoration: none;
+  color: #fff;
+  background-color: rgba(22, 8, 63, 0.65);
+  font-size: 0.7rem;
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+a
+{
+   text-decoration:none;
+   color: #fff; 
+}
+
+a:visited { 
+  text-decoration: none; 
+  color: #fff; 
+ }
+
+@media (max-width: 500px) {
+  .card {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .user-form {
+    max-width: 350px;
+  }
+
+  .user-info ul li strong{
+    font-size:0.7rem;
+  }
+}
