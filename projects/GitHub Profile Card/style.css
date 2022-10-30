@@ -85,7 +85,7 @@ body {
 
 .user-info ul li {
   display: flex;
-  align-items: center;
+  align-items: end;
 }
 
 .user-info ul li strong {
@@ -124,6 +124,15 @@ a:visited {
 
   .user-form {
     max-width: 350px;
+  }
+
+  .user-info{
+    margin: auto;
+    margin-inline: 1rem;
+  }
+
+  .user-info h2 {
+    text-align: center;
   }
 
   .user-info ul li strong{
