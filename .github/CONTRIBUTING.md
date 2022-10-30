@@ -14,7 +14,8 @@ All contribution is welcome (_adding features✨, bug fix🔧, bug report🐛, d
 
 ## This repo is taking part in Hacktoberfest:
 
-To contribute to this repo, please make sure to follow the rules.
+<p align="center">To contribute to this repo, please make sure to follow baby yoda's <img src="https://raw.githubusercontent.com/IndigoWizard/Baby-Yoda-on-a-Trip/main/BabyYodaSprite.gif" alt="grogu" width="60">rules at all times!
+</p>
 
 ### Rules:
 - Cut the maintainers some slack. They work hard and have other things to deal with outside this project. So don't be impatient or spammy.
@@ -30,7 +31,7 @@ To contribute to this repo, please make sure to follow the rules.
 - Make sure you give your PR a clear discription and **meaningful title** of your contribution are requested.
 - Fork this original repo to your own account.
 - Clone the project to your local machine (u may work in-browser).
-- Create a new branch for you contribution and name it relatively (e.g: **dark-theme-feature** or **contributors-counter**)
+- Create a new branch for you contribution and name it relatively (e.g: **dark-theme-feature** or **my-project-name**)
 - Document your code, no one has time to figure out the meaning of your ancient rituals codes ...
 - Make sure your contribution don't break existing features.
 - Link the issue(s) you worked on in your pull request description.
@@ -44,4 +45,6 @@ To contribute to this repo, please make sure to follow the rules.
 
 
 #### NOTE:
-Contributions to this project are availble publically to anyone accessing the repo.
+- Contributions to this project are availble publically to anyone accessing the repo.
+- Anyone can use the content of this repo as education material
+
