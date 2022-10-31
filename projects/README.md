@@ -8,6 +8,7 @@ You find here a quick summary of the contributed projects to this repo.
 - [Marvel Comics Python Search App](/projects/Marvel%20Comics%20Python%20Search%20App/)
 - [NLP_Naive_Bayes_Classifier](/projects/NLP_Naive_Bayes_Classifier/) 
 - [ML for bio](/projects/ML%20for%20bio)
+- [Personal landing page](/projects/Personal%20landing%20page)
 
 Note:
 Please update the list if you contribute a project.
