@@ -10,6 +10,8 @@ The **House of M** is taking part to the 9th edition of Hacktoberfest as part of
 
 We're a growing community that's all about tech, open source, learning, building the futur and inspiring people around us to be part of something greater.
 
+This repo serves as a project library for personal-use and also as a learning and teaching material. 
+
 ## Table of contents
 - [Intro](#House-of-M---Hacktoberfest-2022)
 - [What's Hacktoberfest](#What-'-s-Hacktoberfest)
